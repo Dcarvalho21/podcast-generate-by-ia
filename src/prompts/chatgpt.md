@@ -6,7 +6,6 @@ Gemini：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Você é um roteirista de podcast, e vamos criar um podcast de RPG, focado em Pathfinder segunda edição, e gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para esse podcast feito por nerds, e que tenha algum trocadilho nerd no nome.
-
 O podcast vai falar sobre dicas, histórias e assuntos diversos sobre o mundo de Pathfinder segunda edição, que têm poucas referências em português.
 
 
