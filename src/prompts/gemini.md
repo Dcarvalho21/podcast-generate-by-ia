@@ -18,3 +18,6 @@
 >**REGRAS NEGATIVAS**
 >1. Não use muitos termos técnicos
 >2. Não ultrapasse 5 minutos de duração
+
+>### Capa do podcast:
+>crie um [personagem de RPG] como podcaster para a capa de um podcast, o nome do podcast é [nome do podcast], apresentado por [apresentador]
