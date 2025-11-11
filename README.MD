@@ -13,7 +13,7 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+# Projeto Podcast Gerado por I.As
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts.
 
